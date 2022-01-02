@@ -1,0 +1,7 @@
+name: ReshiftSimulator
+version: 1.0
+main: kr.syeyoung.reshiftsimulator.ReshiftSimulator
+
+commands:
+  rs:
+  db:
